@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/Gardens"
+        android:title="@string/Gardens"
+        android:icon="@drawable/baseline_grid_on_24" />
+
+    <item
+        android:id="@+id/Plants"
+        android:title="@string/Plants"
+        android:icon="@drawable/baseline_local_florist_24" />
+
+
+    <item
+        android:title="@string/calender"
+        android:id="@+id/Calender"
+        android:icon="@drawable/baseline_calendar_today_24"
+        />
+    <item
+        android:id="@+id/Guide"
+        android:title="@string/Guide"
+        android:icon="@drawable/baseline_library_books_24" />
+
+    <item
+        android:id="@+id/More"
+        android:title="@string/More"
+        android:icon="@drawable/baseline_more_vert_24" />
+</group>
+
+
+</menu>

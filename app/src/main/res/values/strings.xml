@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gardenmaking</string>
+    <string name="_2023_gardeners_gift_guide" />
+    <string name="the_planter_team" />
+    <string name="Gardens" />
+    <string name="Plants">\n</string>
+    <string name="calender" />
+    <string name="Guide" />
+    <string name="More" />
+</resources>
